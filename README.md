@@ -1,6 +1,6 @@
 # MailTester Ninja
 
-Welcome to MailTester Ninja, the ultimate solution for email verification. Designed to streamline your email marketing efforts, MailTester Ninja ensures your emails reach valid and active recipients by providing real-time email validation and comprehensive verification features.
+Welcome to MailTester Ninja, the ultimate solution for [email verifier](https://mailtester.ninja/). Designed to streamline your email marketing efforts, MailTester Ninja ensures your emails reach valid and active recipients by providing real-time email validation and comprehensive verification features.
 
 ## Features
 
